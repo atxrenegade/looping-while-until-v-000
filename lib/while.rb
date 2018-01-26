@@ -1,5 +1,5 @@
 def using_until
-  count = -4
+  count = 0
   until count = 10
     puts "Wingardium Leviosa"
     count += 1
