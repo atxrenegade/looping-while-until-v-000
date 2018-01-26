@@ -13,5 +13,3 @@ def using_while
     count += 1
   end
 end
-
-until
