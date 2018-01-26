@@ -1,5 +1,5 @@
 def using_until
-  count = 6
+  count = 4
   until count = 10
     puts "Wingardium Leviosa"
     count += 1
@@ -7,9 +7,9 @@ def using_until
 end
 
 def using_while
-  count = 6
+  count = 4
   while count < 10
     puts "Wingardium Leviosa"
     count += 1
   end
-end  
+end
