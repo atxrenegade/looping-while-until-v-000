@@ -1,5 +1,5 @@
-def using_until 
-  count = 0
+def using_until
+  count = 6
   until count = 10
     puts "Wingardium Leviosa"
     count += 1
@@ -7,7 +7,7 @@ def using_until
 end
 
 def using_while
-  count = 0
+  count = 6
   while count < 10
     puts "Wingardium Leviosa"
     count += 1
